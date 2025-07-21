@@ -6,6 +6,12 @@
       "pageNumber": 1,
       "followers": [
         {
+          "username": "crazyphantombr",
+          "reputation": 74.86,
+          "hivePower": 11612.171,
+          "lastPost": "2025-07-20T23:16:12"
+        },
+        {
           "username": "denissemata",
           "reputation": 75.08,
           "hivePower": 1087.718,
@@ -20,7 +26,7 @@
         {
           "username": "barski",
           "reputation": 76.76,
-          "hivePower": 167.613,
+          "hivePower": 167.614,
           "lastPost": "2025-07-20T17:38:45"
         },
         {
@@ -46,12 +52,6 @@
           "reputation": 77.06,
           "hivePower": 32385.656,
           "lastPost": "2025-07-20T11:47:39"
-        },
-        {
-          "username": "crazyphantombr",
-          "reputation": 74.86,
-          "hivePower": 11612.122,
-          "lastPost": "2025-07-19T21:48:42"
         },
         {
           "username": "daysiselena",
@@ -229,7 +229,7 @@
         {
           "username": "nelyp",
           "reputation": 73.69,
-          "hivePower": 2808.827,
+          "hivePower": 2808.839,
           "lastPost": "2024-09-30T18:27:45"
         },
         {
@@ -247,7 +247,7 @@
         {
           "username": "kokoliso",
           "reputation": 56.72,
-          "hivePower": 1510.726,
+          "hivePower": 1510.733,
           "lastPost": "2024-06-02T20:20:06"
         },
         {
@@ -271,7 +271,7 @@
         {
           "username": "pavelnunez",
           "reputation": 58.62,
-          "hivePower": 282.925,
+          "hivePower": 282.926,
           "lastPost": "2023-11-16T17:22:39"
         },
         {
@@ -283,7 +283,7 @@
         {
           "username": "hilarski",
           "reputation": 76.2,
-          "hivePower": 1654.442,
+          "hivePower": 1654.449,
           "lastPost": "2023-09-20T14:52:18"
         },
         {
@@ -479,7 +479,7 @@
         {
           "username": "gamemusic",
           "reputation": 57.01,
-          "hivePower": 535.784,
+          "hivePower": 535.786,
           "lastPost": "2021-09-28T22:46:09"
         },
         {
@@ -527,13 +527,13 @@
         {
           "username": "showoff",
           "reputation": 47.5,
-          "hivePower": 87.67,
+          "hivePower": 87.671,
           "lastPost": "2021-03-17T09:19:03"
         },
         {
           "username": "razvanelulmarin",
           "reputation": 72.23,
-          "hivePower": 3843.709,
+          "hivePower": 3843.725,
           "lastPost": "2020-12-25T18:37:54"
         },
         {
@@ -581,7 +581,7 @@
         {
           "username": "noganoo",
           "reputation": -61.84,
-          "hivePower": 73.794,
+          "hivePower": 73.795,
           "lastPost": "2020-09-16T20:27:12"
         },
         {
@@ -658,7 +658,7 @@
         {
           "username": "knight-angel",
           "reputation": 61.55,
-          "hivePower": 2137.492,
+          "hivePower": 2137.501,
           "lastPost": "2020-06-26T11:00:15"
         },
         {
@@ -873,7 +873,7 @@
         {
           "username": "eliowilson",
           "reputation": 57.57,
-          "hivePower": 373.174,
+          "hivePower": 373.175,
           "lastPost": "2019-10-28T01:57:27"
         },
         {
@@ -980,7 +980,7 @@
         {
           "username": "arquiatra",
           "reputation": 53.63,
-          "hivePower": 40.454,
+          "hivePower": 40.455,
           "lastPost": "2019-08-10T05:23:57"
         },
         {
@@ -992,7 +992,7 @@
         {
           "username": "crok",
           "reputation": 60.99,
-          "hivePower": 192.873,
+          "hivePower": 192.874,
           "lastPost": "2019-08-02T19:33:57"
         },
         {
@@ -1022,7 +1022,7 @@
         {
           "username": "cryptoauthority",
           "reputation": 49.15,
-          "hivePower": 28.991,
+          "hivePower": 28.992,
           "lastPost": "2019-07-23T02:10:24"
         },
         {
@@ -1367,7 +1367,7 @@
         {
           "username": "greatdabu",
           "reputation": 51.5,
-          "hivePower": 312.622,
+          "hivePower": 312.624,
           "lastPost": "2019-01-14T02:25:33"
         },
         {
@@ -1379,7 +1379,7 @@
         {
           "username": "sulemna",
           "reputation": 56.01,
-          "hivePower": 6.19,
+          "hivePower": 6.191,
           "lastPost": "2019-01-08T17:07:33"
         },
         {
@@ -1427,7 +1427,7 @@
         {
           "username": "money-dreamer",
           "reputation": 57.87,
-          "hivePower": 198.01,
+          "hivePower": 198.011,
           "lastPost": "2018-12-07T18:36:15"
         },
         {
@@ -1767,7 +1767,7 @@
         {
           "username": "floridagypsy",
           "reputation": 65.65,
-          "hivePower": 1593.521,
+          "hivePower": 1593.528,
           "lastPost": "2018-08-14T01:49:27"
         },
         {
@@ -2392,7 +2392,7 @@
         {
           "username": "frebie",
           "reputation": 31.84,
-          "hivePower": 7.546,
+          "hivePower": 7.547,
           "lastPost": "2018-05-22T12:03:33"
         },
         {
@@ -3239,7 +3239,7 @@
         {
           "username": "mathitravels",
           "reputation": 62.61,
-          "hivePower": 1406.489,
+          "hivePower": 1406.495,
           "lastPost": "2018-01-02T14:49:36"
         },
         {
@@ -3418,7 +3418,7 @@
         {
           "username": "glezeddy",
           "reputation": 46.82,
-          "hivePower": 24.368,
+          "hivePower": 24.369,
           "lastPost": "2017-10-15T19:56:30"
         },
         {
@@ -3465,7 +3465,7 @@
         {
           "username": "thenewforktimes",
           "reputation": 35.51,
-          "hivePower": 6.174,
+          "hivePower": 6.175,
           "lastPost": "2017-09-28T16:04:18"
         },
         {
@@ -3716,7 +3716,7 @@
         {
           "username": "edtorrez",
           "reputation": 56.54,
-          "hivePower": 350.887,
+          "hivePower": 350.888,
           "lastPost": "2017-07-14T12:10:33"
         },
         {
@@ -3865,7 +3865,7 @@
         {
           "username": "seisges",
           "reputation": 64.14,
-          "hivePower": 4007.845,
+          "hivePower": 4007.861,
           "lastPost": "2016-12-30T11:58:57"
         },
         {
@@ -3900,7 +3900,7 @@
         {
           "username": "katiasan1978",
           "reputation": 53.95,
-          "hivePower": 515.203,
+          "hivePower": 515.205,
           "lastPost": "2016-10-29T23:34:51"
         },
         {
@@ -3948,7 +3948,7 @@
         {
           "username": "portuguesinha",
           "reputation": 41.26,
-          "hivePower": 162.87,
+          "hivePower": 162.871,
           "lastPost": "2016-09-30T11:54:00"
         },
         {
