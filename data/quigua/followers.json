@@ -6,6 +6,12 @@
       "pageNumber": 1,
       "followers": [
         {
+          "username": "beaker007",
+          "reputation": 74.29,
+          "hivePower": 6673.319,
+          "lastPost": "2025-07-22T18:02:30"
+        },
+        {
           "username": "denissemata",
           "reputation": 75.09,
           "hivePower": 1088.291,
@@ -38,7 +44,7 @@
         {
           "username": "michelle.gent",
           "reputation": 75.32,
-          "hivePower": 9115.052,
+          "hivePower": 9115.09,
           "lastPost": "2025-07-22T11:21:12"
         },
         {
@@ -54,15 +60,9 @@
           "lastPost": "2025-07-21T23:00:30"
         },
         {
-          "username": "beaker007",
-          "reputation": 74.29,
-          "hivePower": 6673.291,
-          "lastPost": "2025-07-20T17:21:42"
-        },
-        {
           "username": "costanza",
           "reputation": 77.06,
-          "hivePower": 32428.316,
+          "hivePower": 32428.451,
           "lastPost": "2025-07-20T11:47:39"
         },
         {
@@ -104,7 +104,7 @@
         {
           "username": "mballesteros",
           "reputation": 74.0,
-          "hivePower": 8206.406,
+          "hivePower": 8206.441,
           "lastPost": "2025-06-16T21:52:30"
         },
         {
@@ -146,7 +146,7 @@
         {
           "username": "ferjart",
           "reputation": 69.84,
-          "hivePower": 81.258,
+          "hivePower": 81.259,
           "lastPost": "2025-04-04T14:45:24"
         }
       ]
@@ -157,7 +157,7 @@
         {
           "username": "dorada",
           "reputation": 69.05,
-          "hivePower": 1400.447,
+          "hivePower": 1400.453,
           "lastPost": "2025-03-27T02:55:30"
         },
         {
@@ -217,7 +217,7 @@
         {
           "username": "alphacore",
           "reputation": 64.4,
-          "hivePower": 1113.787,
+          "hivePower": 1113.792,
           "lastPost": "2024-12-06T11:15:42"
         },
         {
@@ -271,7 +271,7 @@
         {
           "username": "pavelnunez",
           "reputation": 58.62,
-          "hivePower": 282.965,
+          "hivePower": 282.966,
           "lastPost": "2023-11-16T17:22:39"
         },
         {
@@ -759,7 +759,7 @@
         {
           "username": "dezconocido",
           "reputation": 64.67,
-          "hivePower": 3514.132,
+          "hivePower": 3514.146,
           "lastPost": "2020-03-10T03:30:09"
         },
         {
@@ -1069,7 +1069,7 @@
         {
           "username": "mossinator",
           "reputation": 45.51,
-          "hivePower": 68.574,
+          "hivePower": 68.575,
           "lastPost": "2019-06-19T15:07:36"
         },
         {
@@ -1099,7 +1099,7 @@
         {
           "username": "darkminded153",
           "reputation": 56.95,
-          "hivePower": 960.371,
+          "hivePower": 960.375,
           "lastPost": "2019-05-19T15:30:27"
         },
         {
@@ -1326,7 +1326,7 @@
         {
           "username": "mokamisschievous",
           "reputation": 52.81,
-          "hivePower": 295.325,
+          "hivePower": 295.327,
           "lastPost": "2019-01-30T04:59:03"
         },
         {
@@ -1510,7 +1510,7 @@
         {
           "username": "gistain",
           "reputation": 37.25,
-          "hivePower": 50.163,
+          "hivePower": 50.164,
           "lastPost": "2018-11-09T09:23:54"
         },
         {
@@ -1624,7 +1624,7 @@
         {
           "username": "gladysstillwagon",
           "reputation": 55.21,
-          "hivePower": 175.542,
+          "hivePower": 175.543,
           "lastPost": "2018-09-27T01:49:51"
         },
         {
@@ -1647,7 +1647,7 @@
         {
           "username": "drakkomaximo1234",
           "reputation": 59.07,
-          "hivePower": 323.079,
+          "hivePower": 323.08,
           "lastPost": "2018-09-22T23:26:24"
         },
         {
@@ -1713,7 +1713,7 @@
         {
           "username": "micheletrainer",
           "reputation": 58.88,
-          "hivePower": 1049.257,
+          "hivePower": 1049.261,
           "lastPost": "2018-08-27T12:56:33"
         },
         {
@@ -1802,7 +1802,7 @@
         {
           "username": "steemlinks",
           "reputation": 51.38,
-          "hivePower": 201.052,
+          "hivePower": 201.053,
           "lastPost": "2018-08-05T08:19:09"
         },
         {
@@ -1874,7 +1874,7 @@
         {
           "username": "aniellopas",
           "reputation": 56.41,
-          "hivePower": 279.631,
+          "hivePower": 279.632,
           "lastPost": "2018-07-14T21:57:30"
         },
         {
@@ -4043,7 +4043,7 @@
         {
           "username": "ctejada",
           "reputation": 0.0,
-          "hivePower": 72.147,
+          "hivePower": 72.148,
           "lastPost": "1970-01-01T00:00:00"
         },
         {
