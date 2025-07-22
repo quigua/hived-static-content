@@ -6,6 +6,12 @@
       "pageNumber": 1,
       "favorites": [
         {
+          "username": "beaker007",
+          "reputation": 74.29,
+          "hivePower": 6673.319,
+          "lastPost": "2025-07-22T18:02:30"
+        },
+        {
           "username": "manclar",
           "reputation": 73.3,
           "hivePower": 695.41,
@@ -32,7 +38,7 @@
         {
           "username": "michelle.gent",
           "reputation": 75.32,
-          "hivePower": 9115.052,
+          "hivePower": 9115.09,
           "lastPost": "2025-07-22T11:21:12"
         },
         {
@@ -54,15 +60,9 @@
           "lastPost": "2025-07-21T19:06:57"
         },
         {
-          "username": "beaker007",
-          "reputation": 74.29,
-          "hivePower": 6673.291,
-          "lastPost": "2025-07-20T17:21:42"
-        },
-        {
           "username": "costanza",
           "reputation": 77.06,
-          "hivePower": 32428.316,
+          "hivePower": 32428.451,
           "lastPost": "2025-07-20T11:47:39"
         },
         {
