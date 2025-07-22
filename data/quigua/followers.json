@@ -6,16 +6,16 @@
       "pageNumber": 1,
       "followers": [
         {
-          "username": "beaker007",
-          "reputation": 74.29,
-          "hivePower": 6673.319,
-          "lastPost": "2025-07-22T18:02:30"
-        },
-        {
           "username": "denissemata",
           "reputation": 75.09,
-          "hivePower": 1088.291,
-          "lastPost": "2025-07-22T17:12:12"
+          "hivePower": 1088.296,
+          "lastPost": "2025-07-22T18:17:57"
+        },
+        {
+          "username": "beaker007",
+          "reputation": 74.29,
+          "hivePower": 6673.347,
+          "lastPost": "2025-07-22T18:02:30"
         },
         {
           "username": "barski",
@@ -32,7 +32,7 @@
         {
           "username": "daysiselena",
           "reputation": 76.74,
-          "hivePower": 1612.764,
+          "hivePower": 1612.771,
           "lastPost": "2025-07-22T15:40:48"
         },
         {
@@ -44,13 +44,13 @@
         {
           "username": "michelle.gent",
           "reputation": 75.32,
-          "hivePower": 9115.09,
+          "hivePower": 9115.129,
           "lastPost": "2025-07-22T11:21:12"
         },
         {
           "username": "marjuanm",
           "reputation": 59.58,
-          "hivePower": 87.17,
+          "hivePower": 87.171,
           "lastPost": "2025-07-22T10:07:00"
         },
         {
@@ -62,7 +62,7 @@
         {
           "username": "costanza",
           "reputation": 77.06,
-          "hivePower": 32428.451,
+          "hivePower": 32428.587,
           "lastPost": "2025-07-20T11:47:39"
         },
         {
@@ -80,7 +80,7 @@
         {
           "username": "gorayii",
           "reputation": 76.69,
-          "hivePower": 12976.134,
+          "hivePower": 12976.188,
           "lastPost": "2025-07-07T17:15:06"
         },
         {
@@ -92,7 +92,7 @@
         {
           "username": "profwhitetower",
           "reputation": 69.0,
-          "hivePower": 1810.582,
+          "hivePower": 1810.59,
           "lastPost": "2025-06-23T10:38:18"
         },
         {
@@ -104,13 +104,13 @@
         {
           "username": "mballesteros",
           "reputation": 74.0,
-          "hivePower": 8206.441,
+          "hivePower": 8206.475,
           "lastPost": "2025-06-16T21:52:30"
         },
         {
           "username": "littlesorceress",
           "reputation": 72.99,
-          "hivePower": 5474.344,
+          "hivePower": 5474.367,
           "lastPost": "2025-05-30T20:14:33"
         },
         {
@@ -169,7 +169,7 @@
         {
           "username": "egonz",
           "reputation": 71.72,
-          "hivePower": 4247.288,
+          "hivePower": 4247.305,
           "lastPost": "2025-03-11T01:49:57"
         },
         {
@@ -199,7 +199,7 @@
         {
           "username": "fabiyamada",
           "reputation": 67.45,
-          "hivePower": 382.4,
+          "hivePower": 382.402,
           "lastPost": "2025-01-22T23:19:27"
         },
         {
@@ -324,7 +324,7 @@
         {
           "username": "henrycalu",
           "reputation": 57.0,
-          "hivePower": 93.507,
+          "hivePower": 93.508,
           "lastPost": "2023-04-05T04:44:57"
         },
         {
@@ -432,7 +432,7 @@
         {
           "username": "afroadrianv",
           "reputation": 61.71,
-          "hivePower": 86.232,
+          "hivePower": 86.233,
           "lastPost": "2022-01-17T01:23:36"
         },
         {
@@ -569,7 +569,7 @@
         {
           "username": "pqlenator",
           "reputation": 59.52,
-          "hivePower": 28.272,
+          "hivePower": 28.273,
           "lastPost": "2020-09-30T18:26:42"
         },
         {
@@ -593,7 +593,7 @@
         {
           "username": "manosteel211",
           "reputation": 56.92,
-          "hivePower": 1.433,
+          "hivePower": 1.434,
           "lastPost": "2020-08-21T19:46:09"
         }
       ]
@@ -634,7 +634,7 @@
         {
           "username": "capper2016",
           "reputation": 57.36,
-          "hivePower": 356.133,
+          "hivePower": 356.135,
           "lastPost": "2020-07-04T23:45:45"
         },
         {
@@ -676,7 +676,7 @@
         {
           "username": "cnts",
           "reputation": 64.44,
-          "hivePower": 18182.912,
+          "hivePower": 18182.989,
           "lastPost": "2020-04-12T22:00:51"
         },
         {
@@ -706,7 +706,7 @@
         {
           "username": "traderdad",
           "reputation": 51.32,
-          "hivePower": 633.765,
+          "hivePower": 633.767,
           "lastPost": "2020-03-19T15:19:12"
         },
         {
@@ -736,7 +736,7 @@
         {
           "username": "marcusmalone",
           "reputation": 53.42,
-          "hivePower": 4035.526,
+          "hivePower": 4035.543,
           "lastPost": "2020-03-15T21:55:06"
         },
         {
@@ -801,7 +801,7 @@
         {
           "username": "tonilee",
           "reputation": 55.69,
-          "hivePower": 2077.512,
+          "hivePower": 2077.52,
           "lastPost": "2020-02-08T00:02:48"
         },
         {
@@ -920,7 +920,7 @@
         {
           "username": "dusoleil",
           "reputation": 53.74,
-          "hivePower": 67.494,
+          "hivePower": 67.495,
           "lastPost": "2019-10-04T03:00:15"
         },
         {
@@ -938,7 +938,7 @@
         {
           "username": "idafc",
           "reputation": 50.97,
-          "hivePower": 8.343,
+          "hivePower": 8.344,
           "lastPost": "2019-09-23T18:57:24"
         },
         {
@@ -962,13 +962,13 @@
         {
           "username": "lamare",
           "reputation": 53.0,
-          "hivePower": 179.431,
+          "hivePower": 179.432,
           "lastPost": "2019-09-07T14:01:39"
         },
         {
           "username": "powerofseeds8",
           "reputation": 40.32,
-          "hivePower": 21.908,
+          "hivePower": 21.909,
           "lastPost": "2019-08-16T14:35:27"
         },
         {
@@ -998,7 +998,7 @@
         {
           "username": "luis07",
           "reputation": 48.32,
-          "hivePower": 30.811,
+          "hivePower": 30.812,
           "lastPost": "2019-08-02T14:57:06"
         },
         {
@@ -1040,7 +1040,7 @@
         {
           "username": "kayleigh-alesta",
           "reputation": 51.9,
-          "hivePower": 342.415,
+          "hivePower": 342.416,
           "lastPost": "2019-07-04T21:45:30"
         }
       ]
@@ -1051,7 +1051,7 @@
         {
           "username": "arnoldwish",
           "reputation": 53.85,
-          "hivePower": 220.915,
+          "hivePower": 220.916,
           "lastPost": "2019-06-24T14:52:57"
         },
         {
@@ -1087,7 +1087,7 @@
         {
           "username": "curlyhead",
           "reputation": 43.43,
-          "hivePower": 50.153,
+          "hivePower": 50.154,
           "lastPost": "2019-06-11T13:57:06"
         },
         {
@@ -1099,7 +1099,7 @@
         {
           "username": "darkminded153",
           "reputation": 56.95,
-          "hivePower": 960.375,
+          "hivePower": 960.379,
           "lastPost": "2019-05-19T15:30:27"
         },
         {
@@ -1326,7 +1326,7 @@
         {
           "username": "mokamisschievous",
           "reputation": 52.81,
-          "hivePower": 295.327,
+          "hivePower": 295.328,
           "lastPost": "2019-01-30T04:59:03"
         },
         {
@@ -1630,7 +1630,7 @@
         {
           "username": "amendez",
           "reputation": 43.91,
-          "hivePower": 25.513,
+          "hivePower": 25.514,
           "lastPost": "2018-09-25T12:42:18"
         },
         {
@@ -1653,13 +1653,13 @@
         {
           "username": "blog-fictions",
           "reputation": 54.02,
-          "hivePower": 147.758,
+          "hivePower": 147.759,
           "lastPost": "2018-09-14T06:41:15"
         },
         {
           "username": "crowdifywepayyou",
           "reputation": -49.3,
-          "hivePower": 44.641,
+          "hivePower": 44.642,
           "lastPost": "2018-09-13T23:04:54"
         },
         {
@@ -1743,7 +1743,7 @@
         {
           "username": "hermes1666",
           "reputation": 45.8,
-          "hivePower": 29.696,
+          "hivePower": 29.697,
           "lastPost": "2018-08-22T22:21:06"
         },
         {
@@ -1755,7 +1755,7 @@
         {
           "username": "rdelgadop",
           "reputation": 54.84,
-          "hivePower": 173.947,
+          "hivePower": 173.948,
           "lastPost": "2018-08-20T13:59:39"
         },
         {
@@ -1874,7 +1874,7 @@
         {
           "username": "aniellopas",
           "reputation": 56.41,
-          "hivePower": 279.632,
+          "hivePower": 279.633,
           "lastPost": "2018-07-14T21:57:30"
         },
         {
@@ -1910,7 +1910,7 @@
         {
           "username": "smartsocial",
           "reputation": 28.2,
-          "hivePower": 11317.165,
+          "hivePower": 11317.212,
           "lastPost": "2018-07-08T02:19:30"
         },
         {
@@ -1934,7 +1934,7 @@
         {
           "username": "a-0-0",
           "reputation": -58.18,
-          "hivePower": 69.065,
+          "hivePower": 69.066,
           "lastPost": "2018-07-05T13:14:12"
         }
       ]
@@ -2267,7 +2267,7 @@
         {
           "username": "herbamol",
           "reputation": 25.0,
-          "hivePower": 104.254,
+          "hivePower": 104.255,
           "lastPost": "2018-05-26T10:48:15"
         },
         {
@@ -2291,7 +2291,7 @@
         {
           "username": "anonwhale",
           "reputation": 25.0,
-          "hivePower": 210.181,
+          "hivePower": 210.182,
           "lastPost": "2018-05-24T20:16:03"
         },
         {
@@ -2553,7 +2553,7 @@
         {
           "username": "berlinmoonlight",
           "reputation": 45.81,
-          "hivePower": 39.691,
+          "hivePower": 39.692,
           "lastPost": "2018-05-02T20:22:36"
         },
         {
@@ -2720,7 +2720,7 @@
         {
           "username": "mondeja",
           "reputation": 60.96,
-          "hivePower": 241.373,
+          "hivePower": 241.374,
           "lastPost": "2018-03-16T17:11:21"
         },
         {
@@ -3459,7 +3459,7 @@
         {
           "username": "aarkay",
           "reputation": -44.95,
-          "hivePower": 74.794,
+          "hivePower": 74.795,
           "lastPost": "2017-09-29T09:00:21"
         },
         {
@@ -3519,7 +3519,7 @@
         {
           "username": "bilalhaider",
           "reputation": -52.41,
-          "hivePower": 9.116,
+          "hivePower": 9.117,
           "lastPost": "2017-09-17T18:21:24"
         },
         {
@@ -3847,7 +3847,7 @@
         {
           "username": "bluechoochoo",
           "reputation": 53.29,
-          "hivePower": 281.068,
+          "hivePower": 281.069,
           "lastPost": "2017-02-12T07:06:03"
         },
         {
@@ -3882,7 +3882,7 @@
         {
           "username": "yuleida",
           "reputation": 56.3,
-          "hivePower": 269.649,
+          "hivePower": 269.65,
           "lastPost": "2016-11-10T10:54:27"
         },
         {
@@ -3912,7 +3912,7 @@
         {
           "username": "nasimbabu",
           "reputation": 55.95,
-          "hivePower": 400.467,
+          "hivePower": 400.468,
           "lastPost": "2016-10-17T09:02:00"
         },
         {
